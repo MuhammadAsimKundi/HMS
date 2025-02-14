@@ -4,7 +4,7 @@ A **comprehensive web-based Hospital Management System** (HMS) designed to strea
 
 Developed using **HTML, CSS, PHP, JavaScript, and MySQL**, this project aims to digitize hospital workflows for enhanced efficiency and accuracy.  
 
----
+
 
 ## **📌 Key Features**  
 
@@ -32,7 +32,7 @@ Developed using **HTML, CSS, PHP, JavaScript, and MySQL**, this project aims to 
 - **Sanitized database queries** to prevent SQL injection.  
 - **Secure authentication mechanisms** for data protection.  
 
----
+
 
 ## **🛠️ Technologies Used**  
 
@@ -44,7 +44,7 @@ Developed using **HTML, CSS, PHP, JavaScript, and MySQL**, this project aims to 
 | **MySQL** | Database for storing patient and prescription data |
 | **Bootstrap** | UI styling and responsiveness |
 
----
+
 
 ## **📂 Installation & Setup**  
 
@@ -85,22 +85,19 @@ php -S localhost:8000
 ```
 Then visit `http://localhost:8000` in your browser.
 
----
 
 ## **📸 Screenshots**  
-*(Include relevant UI screenshots here to showcase the project.)*  
+*(All Relevant UI screenshots will be attached here later to showcase the project.)*  
 
----
 
 ## **🔗 Live Demo**  
-*(If deployed, provide a live demo link here.)*  
+*(live demo link will be deployed later.)*  
 
----
+
 
 ## **📜 License**  
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.  
 
----
 
 ## **👨‍💻 About the Developer**  
 
@@ -111,4 +108,4 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 If you have any questions or suggestions, feel free to reach out!  
 
----
+
