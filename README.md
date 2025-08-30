@@ -1,4 +1,4 @@
-# **🏥 Hospital Management System**  
+# **🏥 Hospital Management System:**  
 
 A **comprehensive web-based Hospital Management System** (HMS) designed to streamline hospital operations, patient management, and prescription tracking. This system enables efficient management of patient records, doctor prescriptions, and user authentication.  
 
